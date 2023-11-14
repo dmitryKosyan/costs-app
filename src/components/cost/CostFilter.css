@@ -1,0 +1,21 @@
+.cost__wrapper {
+
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px 20px;
+
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.cost__select {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cost__filter {
+    border: none;
+    width: 64px;
+    border-radius: 6px;
+}

@@ -1,0 +1,19 @@
+.cost__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px 20px;
+
+    border-radius: 15px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.cost__price {
+    padding: 8px 25px;
+    background-color: rgb(0 92 132);
+    border-radius: 10px;
+    color: azure;
+}
